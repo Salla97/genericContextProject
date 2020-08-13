@@ -5,6 +5,16 @@
  * to run our tests.
  */
 
+
+/**  model of capability to appium 
+ {
+    "deviceName": "10.1 (Tablet) API 28",
+    "platformName": "Android",
+    "app": "/Users/gabrielsallagalvaodias/dev/projetoGenerico/exemplo/exemplo.tests/app-exemplo-debug.apk",
+    "appPackage": "net.nuvem.tracecotton",
+    "appActivity": "net.nuvem.tracecotton.ui.MainActivity"
+ } */
+
 const host = '127.0.0.1';   // default appium host
 const port = 4730;          // default appium port
 
